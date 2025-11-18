@@ -32,6 +32,7 @@ It is designed to support hospital leadership in improving efficiency, resource 
 ### **1. Main Dashboard**
 <img width="1178" height="680" alt="image" src="https://github.com/user-attachments/assets/6800d968-61d7-4bdd-ab3c-06604ed3be44" />
 
+
 - KPI summary  
 - Patient flow by hour  
 - Department wait time comparison  
@@ -39,16 +40,25 @@ It is designed to support hospital leadership in improving efficiency, resource 
 - Slicers for filtering  
 
 ### **2. Department Drillthrough**
+<img width="1182" height="686" alt="image" src="https://github.com/user-attachments/assets/57546895-2826-40fb-a2b5-23daf23432df" />
+
+
 - Department-specific KPIs  
 - Wait time distribution  
 - Age group breakdown  
 
 ### **3. Age Group Drillthrough**
+<img width="1179" height="680" alt="image" src="https://github.com/user-attachments/assets/146ffcd2-3317-4273-8132-adc19003bb86" />
+
+
 - Satisfaction vs wait time  
 - Admission trends  
 - Department referral distribution  
 
 ### **4. Executive Insights Page**
+<img width="1181" height="682" alt="image" src="https://github.com/user-attachments/assets/e3711259-d305-480c-b854-68ceb0a79e99" />
+
+
 - Business insights  
 - Key findings  
 - Recommendations for improvement  
@@ -95,20 +105,12 @@ Emergency-Room-Operational-Analytics/
 │   ├── dashboard_department.png
 │   ├── dashboard_agegroup.png
 │   ├── dashboard_insights.png
-│   └── banner.png (optional)
 │
 └── docs/
     ├── dax_measures.md
-    ├── project_plan.md
-    ├── modeling_steps.md
     └── data_dictionary.md
 ```
 
----
-
-## 📥 Download  
-Power BI Report (.pbix): *(upload your file here)*  
-Dataset (.csv): *(upload your file here)*  
 
 ---
 
